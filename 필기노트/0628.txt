@@ -1,0 +1,5 @@
+https://www.w3schools.com/css/css3_box-sizing.asp
+
+*{} 전체 선언에
+box-sizing: border-box;
+를 넣으면 네비게이션이 꿈틀대지 않는다

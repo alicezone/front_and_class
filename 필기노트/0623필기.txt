@@ -1,0 +1,66 @@
++div > h1 > p 이런식으로 코드를 쓴다
+
++  <style>
+    .box1 span {
+      background: #f26f6f;
+    }
+
+    .box1 div {
+      background: #56e1b5;
+    }
+  </style>
+
+span태그는 글씨까지만 감싸지고
+div는 전체박스가 생긴다
+width: auto값이 숨어있는 상태
+
++span태그에 display: block; 값을 넣어야 너비가 꽉차게 들어가고 블록값으로 들어간다
+div처럼 디폴트 값이 된다.
+
++높이값은 vh로 먹여야 꽉채워진다
+넓이값은 100%가 되지만 
+
++ml20 = margin-left: 20px;
+mb100 = margin-bottom: 100px;
+
++margin: 25px 50px 75px 100px;
+일일히 다 넣기 힘들고 줄이 길어지니까
+12시 3시 6시 9시 방향
+한줄로 넣는다
+
++p {
+  margin: 25px;
+} 수치1개만 상
+
+p {
+  margin: 25px 50px;
+} 수치2개는 좌우
+
++여백: 25px 50px 75px;
+상단 여백은 25px입니다.
+오른쪽 왼쪽 우좌 50px입니다.
+하단 여백은 75px입니다.
+
++패딩값은 블록안의 여백 간격을 조절
+마진은 블록 바깥쪽 여백을 조절
+
++inherit
+박스 부모값 셋팅 설정 그대로 물려받는 코드
+
++div class="box5"=.box5
+
++p10=padding: 10px;
+
++box5 div:first-child 
+box5 div:nth-child(2)
+box5 div:nth-child(3)
+box5 div:last-child  - 마지막 차일드
+널쓰 차일드? 암튼 2번째부터는 이렇게 쓴데
+
++ box-sizing: border-box;상단에 마더 값으로 들어감
++bdl=border-left
++bdb=border-bottom
++border-radius - html코딩에서 라운드를 만드는법
+
++ class이름을 잡을때는 .class로 .을 찍어줘서 잡고
+li태그를 잡을때는 .을 안찍고 왠만하면 태그를 잡지말고 이름을 지어줘서 잡아라 실무에서는

@@ -1,0 +1,84 @@
++!느낌표 누르고 자동완성 doc타입 완성
+
++css 세팅할때 코딩에서*별은 모두라는 뜻 잡아라
+  
+<style>
+    * {
+      margin: 0;
+      padding: 0;
+      line-height: 1.5;
+      text-decoration: none;
+      box-sizing: border-box;
+      list-style: none;
+    }
+  </style>
+
++ https://cdnjs.com/
+
+https://www.google.com/search?q=reset.css.cdn&oq=&aqs=chrome.1.35i39i362l8.175165110j0j15&sourceid=chrome&ie=UTF-8
+
+https://www.google.com/search?q=reset.js&oq=&aqs=chrome.1.35i39i362l8.175256486j0j15&sourceid=chrome&ie=UTF-8
+
++ reset파일이라는게 있다 css
+
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      line-height: 1.5;
+      color: #222328;
+      text-decoration: none;
+      list-style: none;
+      box-sizing: border-box;
+    }
+  </style>
+
+기본적인 html css 값을 지워버리는 값들이다
+항상 기본적으로 넣어주는 값들이다
+예를 들어 마우스 오버했을대 파란색으로 변하면서 밑줄이 그어지는데 그런것들을 없애주는 값들이다.
+
++<em>기울어짐</em> 기울어지는 폰트
+
++font-weight: bold;=fwb 약어 자동완성코드
+
++font-weight: normal; 기본설정 타이틀 폰트를 얇게 만들어줌
+
++fz = fontsize
+
++http://pxtoem.com/
+em폰트로 변환해서 사용한다
+상대값이라서 pc는 16px로 많이하고 mobile은 14px로 많이한다
+
+*일반적으로 많은 사람들이 em단위를 쓰면 해상도에 따라서 크기가 달라진다고 오해하는 경우가 많습니다. 하지만 em을 쓰는 이유는 IE6과 같이 zoom기능이 없는 브라우저에서 브라우저의 글꼴 크기 옵션을 조절했을 때 동작하게 하기 위함입니다
+
++span < b태그가 더 큰범위
+
++1rem이 있고 em이 있다
+ /* rem : html,body 태그 기준 */
+/* em 엄마 태그를 기준으로 */
+
+
++<h1 style="font-size:10vw">Hello World</h1>
+vw는 가로로 커지고 작아지고 폰트 반응형으로 사용한다
+그러나 거의 사용안한다
+
++ctrl+shift+K 한줄 전체 지우기
+
++em테그는 기본셋팅 폰트 사이즈 px단위가 아닌 요소별로 다르게 em테그로 변환해서 px상대값을 적어 코딩해둔다.
+수정이 있을때 기본셋팅 css 스타일에서 바꿔준다.
+
++vw가로 , vh세로 태그는 디바이스 크기에 맞게 변화한다.
+풀스크린 페이지를 만들때 주로 코딩한다
+
++ bg컬러 할때 높이값은 무조건 절대값
+가로값은 100%로 두기도한다
+
++bgc =background-colo
+
+
+
+
+
+
+
+

@@ -1,0 +1,72 @@
+[vscode 설치시 확장 라이브러리 설치해야할것새 ]
+Auto Close Tag
+Auto Rename Tag
+Beauty
+htmltagwrap
+Korean Language Pack for Visual Studio Code
+Live Server
+HTML Snippets
+Image preview
+
+
+
+웹디자인 포토샵 수업
+
+https://www.freepik.com/
+무료 템플릿 psd 사이트
+
+어도비익스프레스같은 자동누끼사이트
+https://www.remove.bg/ko
+
+https://www.gdweb.co.kr/main/
+지디웹 - UI/UX포트폴리오 사이트
+
+https://www.w3schools.com/html/html_css.asp
+html 배우는 사이트
+
+https://oddcode.tistory.com/
+선생님 블로그에서 수업 모든 자료가 있다
+
+https://code.visualstudio.com/docs/?dv=win
+비주얼스튜디오 html 다운로드 사이트
+windows 전체 다운로드로 그냥 다운받기
+
+https://github.com/
+깃 사이트 모두 지금 이걸로 실무함
+alice0628musk
+kawai255%+
+
+
+＠코딩 다하고 깃에 올려놓는법
+<git bash hear>
+git add . 
+
+git commit -m "두번째 올림"
+
+git push
+
+
+https://www.sourcetreeapp.com/
+소스트리:여러사람이 가지치기하듯 히스토리 관리하면서 서로 업로드 수정 무한히됨
+다운로드 받아서 집에서 연습해봐야함
+
+github에서 https://github.com/alice0628musk/iiii
+다른 깃허브에서 개발자가 올린걸 다운로드해서 소스를 수정해서 내것으로 쓸수있으며 우측 상단에 포크로 가져오겠냐고 물으면 가져와서 내 깃허브에서 가지고 있을수 있다
+
+https://swiperjs.com/
+슬라이드 소스 이걸 사용한경우 네이버비즈니스스쿨
+https://swiperjs.com/swiper-api
+스위퍼 API
+
+https://alvarotrigo.com/fullPage/ko/
+풀스크린 사이트 무료로 만들수 있는 오픈소스 사이트
+
+https://github.com/eehd80?tab=repositories
+선생님 깃허브 사이트
+
+https://splidejs.com/
+슬라이드 소스를 어떤 곳은 이걸 사용함
+
+https://jquery.com/
+- 다운로드 사이트
+저장하는법 최근 파일 3.7.0 받고 우클릭하고 다른 이름으로 저장하고 js폴더 만들어서 넣어두면됨

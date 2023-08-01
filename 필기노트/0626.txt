@@ -1,0 +1,37 @@
+에밋
+tdn=text-decoration: none;
+w200=width: 200px;
+h200=height: 100px;
+dib=display: inline-block;
+tac=text-align: center;
+lh=line-height: ;
+df=display: flex;
+fld= flex-direction: column;
+flw=flex-wrap: wrap;
+jcc=justify-content: center;
+
+
+블록일 경우 텍스트 가운데 정렬(여러가지 방법이 있지만)
+text-align: center;
+line-height: 50px(전체에서 절반값);
+
+
+  <h2>inline(글자한개) / inline-block(가로세로 값 가능, 글자처럼 옆으로 배치)</h2>
+  <a href="#" class="box2">링크1</a>
+  <a href="#" class="box2">링크2</a>
+  <a href="#" class="box2">링크3</a>
+스페이스치면 10px씩 떨어진다 
+이걸로 가로배치 하지 않는다. 오류날때 찾으라고 알려줌
+
+
+eslint 오류찾아주는 확장프로그램
+
+div{$}*12=한꺼번에 div를 12개를 쭉 넣어줌
+
++flex는 ie7에 맞춰서 네이버는 제작된다. 안정성때문에
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+제플린에 보낼때는 아트보드일때만 올라간다 따라서 작업할때 아트보드로 
+뉴파일 만들어서 작업해야한다!
+제플린에 보내고 슬랙에 보내서 작업자에게 알려준다. 다했다고 ㅋㅋ

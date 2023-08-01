@@ -1,0 +1,21 @@
+  justify-content: space-between;
+실무에서는 항상 헤더는 이  css값으로 가로정렬을 해준다
+
+flex에서는 모든 값이 100%값으로 높이값이 생긴다
+
+
++  <!-- 로고 -->
+            <h1 class="logo">
+                <a href="#">
+                    <img src="./images/logo.png" alt="just쇼핑몰">
+로고를 요즘은 img 테그로 안넣는데
+타이틀만 적고 로고는 백그라운드로 넣는다
+경로 수정이 잦아지면 비효율적이기때문에
+
+
+https://validator.w3.org/
+에러 소스를 찾아줌
+
+display: center;를 쓰면 텍스트정렬이 안된다.
+
+block 엘리먼트는 inline 엘리먼트와 달리 width, height, margin, padding 속성이 모두 반영이 됩니다.

@@ -1,0 +1,107 @@
+메타인지
+-누구를 가르쳐주고 아는걸 공유하는 사람이 리더가 된다
+
+지디웹
+https://www.cheongyang.go.kr/child.do
+go.kr <-나라 사이트
+
+로고는 h1 gnb<- ul li 코딩
+
+햄버거는=<-a 태그 아니면 버튼으로 코딩
+<span 태그로 감싸서 사용함>
+https://splidejs.com/ 스플리드라는 슬라이드 코딩을 사용
+
+font 크기
+16px이 기본 
+18px 중
+16px 약
+45px 타이틀 강
+
+gui <-픽토그램아이콘을 이렇게 부르네..
+
+
+https://bizschool.naver.com/
+긴배너는 띠배너라고 부름
+12px잘 없는데 작은 날짜 강사진 네임 글씨 씀
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+우리가 하고 있는 코딩프로그램 V코드
+
+html 목록
+정렬되지 않은 목록
+ul태그에서 리스트 스타일을 주지않는다
+
+모든 사이트의 인트로는 index.html로 만든다
+
+div 태그는 박스태그라고 보면된다 제일 많이 사용한다
+
+wrap- 전체를 감싼다는 뜻으로 이름을 주는 경우가많음
+
+<div></div> 태그는 Division의 약자로, 레이아웃을 나누는데 주로 쓰입니다. 다른 태그와 다르게 특별한 기능을 갖고 있지는 않고, 가상의 레이아웃을 설계하는데 쓰이며, 주로 CSS와 연동하여 쓰입니다
+
+디자인 할때는 div로 레이아웃잡고 class name만 가지고 사용한다
+
+id값은 한페이지에 여러개 사용하면 안되고 개발자가 주로 쓰기때문에 하지않는다
+
+https://www.w3schools.com/html/html_layout.asp
+사이트 작업시작할때 이 레이아웃 참고
+의미있는 마크업이라고함
+<body>
+ <div class="wrap"><-거의 다 항상 와랩이라고 적는다
+        <header>헤더</header>
+        <main>메인</main>
+        <footer>풋터</footer>
+    </div>
+</body>
+바디로 감싸고 레이아웃때문에 DIV로 잡고 헤더, 메인, 푸터로 시작한다
+
+class 이름을 잡고 해야한다 태그이름으로만 끝나면 안된다
+
+doc누르면 알아서 <!DOCTYPE html>타입 써진다
+
+nav:네비게이션이라는 뜻
+
+주석처리 빠르게 ctrl+/
+글씨만 있는걸 주석으로 ctrl+c+k
+
+윈도우 + 방향키 - 한컴퓨터 화면을 분리
+
+gnb:글로벌네비게이션바
+
+class이름 줄때 항상 숫자는 뒤에 depth1 오류난다
+
+뎁스(depth)
+홈페이지 방문 이동경로 깊이.
+대메뉴(1depth)-중메뉴(2depth)-소메뉴(3depth)\
+
+<ul> 태그는 Unordered List의 약자로써 '정돈되지 않은 리스트'를 뜻 합니다.
+ul이 감싸고 li로 리스트 뿌린다
+
+
+.slide누르고 엔터치면 
+ <div class="slide"></div>
+            
+h1.logo
+<h1 class="logo"></h1>
+
+.slide 누르고 엔터 알아서 div class이름 넣어준다
+
+just쇼핑몰은 인터넷 안되는 상황에서 만드는거라서 라이브러리로 못만든다 직접다 코딩
+실무에선 점 슬라이드 바닐라 라이브러리 슬라이드로 만든다
+
+-class이름 정하기
+<div class="bnr">배너</div> <-배너bnr약어 ban이라고도한다
+goto - 바로가기
+tabs 공지사항.갤러리
+
+section.bbs누르고 엔터
+<section class="bbs"></section>
+
+a라고 누르고 앤터
+ <li><a href="#">blog</a></li>
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+웹디자인 포토샵 수업
+
+https://www.freepik.com/
+무료 템플릿 psd 사이트
